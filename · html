@@ -104,3 +104,23 @@
   </footer>
 </body>
 </html>
+<div style="text-align:center; margin:20px 0;">
+    <h3>Share Our Website</h3>
+    <!-- WhatsApp Share -->
+    <a href="https://wa.me/?text=Check%20out%20Mati%20Job%20Service%20Website%20https://yourusername.github.io/job-service-website" 
+       target="_blank" style="text-decoration:none;">
+       <button style="background:#25D366;color:white;padding:10px 15px;border-radius:6px;margin:5px;">Share on WhatsApp</button>
+    </a>
+
+    <!-- Telegram Share -->
+    <a href="https://t.me/share/url?url=https://yourusername.github.io/job-service-website&text=Check%20out%20Mati%20Job%20Service" 
+       target="_blank" style="text-decoration:none;">
+       <button style="background:#0088cc;color:white;padding:10px 15px;border-radius:6px;margin:5px;">Share on Telegram</button>
+    </a>
+
+    <!-- Facebook Share -->
+    <a href="https://www.facebook.com/sharer/sharer.php?u=https://yourusername.github.io/job-service-website" 
+       target="_blank" style="text-decoration:none;">
+       <button style="background:#1877F2;color:white;padding:10px 15px;border-radius:6px;margin:5px;">Share on Facebook</button>
+    </a>
+</div>
