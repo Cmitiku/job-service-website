@@ -1,9 +1,10 @@
-·<!DOCTYPE html>
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Mitiku Job Service</title>
+  <title>Mati Job Service</title>
   <style>
     body {font-family: Arial, sans-serif;margin: 0;background: #f4f6f8;color: #333;}
     header {background: #0f172a;color: white;padding: 25px;text-align: center;}
@@ -21,7 +22,7 @@
 </head>
 <body>
   <header>
-    <h1>Mitiku Job Service</h1>
+    <h1>Mati Job Service</h1>
     <p>Helping people find local and online job opportunities quickly and easily.</p>
   </header>
 
@@ -58,7 +59,7 @@
     <div id="apply" class="card">
       <h2>Job Application Form</h2>
       <form action="https://formsubmit.co/mmitiku6878@gmail.com" method="POST" enctype="multipart/form-data">
-        <input type="hidden" name="_subject" value="New Job Application - Mitiku Job Service">
+        <input type="hidden" name="_subject" value="New Job Application - Mati Job Service">
         <input type="hidden" name="_captcha" value="false">
 
         <label>Full Name</label>
@@ -95,18 +96,7 @@
   </div>
 
   <footer>
-    <p>© 2026 Mitiku Job Service | All Rights Reserved</p>
+    <p>© 2026 Mati Job Service | All Rights Reserved</p>
   </footer>
-</body>
-</html>
-
-    function postJob() {
-      alert("Job submitted successfully!");
-    }
-
-    function contactMessage() {
-      alert("Message sent successfully!");
-    }
-  </script>
 </body>
 </html>
